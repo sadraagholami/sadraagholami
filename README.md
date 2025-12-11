@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi I'm Sadra!
 
-<!--
-**sadraagholami/sadraagholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering student at SBUK, working at the intersection of  
+**mathematical modeling**, **optimization**, and **data-driven decision systems**.  
+I am broadly interested in turning real-world operational problems into  
+computational formulations and designing efficient solution procedures around them.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Mathematical programming (LP, MILP); formulation design and model structuring  
+- Optimization modeling using Pyomo and GAMS  
+- Data analytics and predictive modeling (scikit-learn, statistical methods)  
+- Algorithmic thinking; computational approaches for decision-making problems  
+- Systems modeling: scheduling, resource allocation, and analytical operations
+
+---
+
+## Technical Skills
+
+**Programming:** Python (Pyomo, scikit-learn, NumPy, Pandas), C++, SQL  
+**Optimization Tools:** Pyomo, GAMS, solver workflows  
+**Data & Analytics:** feature engineering, EDA, model evaluation  
+**Tools:** Git, Linux, Jupyter, VS Code, Excel
+
+---
+
+## Links
+
+Email: sadra.gholami2003@gmail.com
+LinkedIn: https://www.linkedin.com/in/sadragholami
