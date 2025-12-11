@@ -1,4 +1,4 @@
-# Hi I'm Sadra!
+### Hi I'm Sadra!
 
 Industrial Engineering student at SBUK, working at the intersection of  
 **mathematical modeling**, **optimization**, and **data-driven decision systems**.  
@@ -7,7 +7,7 @@ computational formulations and designing efficient solution procedures around th
 
 ---
 
-## Research Interests
+#### Research Interests
 
 - Mathematical programming (LP, MILP); formulation design and model structuring  
 - Optimization modeling using Pyomo and GAMS  
@@ -17,7 +17,7 @@ computational formulations and designing efficient solution procedures around th
 
 ---
 
-## Technical Skills
+#### Technical Skills
 
 **Programming:** Python (Pyomo, scikit-learn, NumPy, Pandas), C++, SQL  
 **Optimization Tools:** Pyomo, GAMS, solver workflows  
@@ -26,8 +26,7 @@ computational formulations and designing efficient solution procedures around th
 
 ---
 
-## Links
+#### Links
 
-Email: sadra.gholami2003@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/sadragholami
+- Email: sadra.gholami2003@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sadragholami
