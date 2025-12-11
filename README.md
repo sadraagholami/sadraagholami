@@ -1,5 +1,5 @@
 ### Hi I'm Sadra! 
-Welcome to my new Github.
+Welcome to my new Github profile.
 
 Industrial Engineering student at SBUK, working at the intersection of  
 **mathematical modeling**, **optimization**, and **data-driven decision systems**.  
