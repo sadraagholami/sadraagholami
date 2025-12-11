@@ -15,7 +15,7 @@ computational formulations and designing efficient solution procedures around th
 
 #### Technical Skills
 
-**Programming:** Python (Pyomo, scikit-learn, NumPy, Pandas), C++, SQL  
+**Programming:** Python (Pandas, scikit-learn, NumPy, SciPy, etc), C++, SQL  
 **Optimization Tools:** Pyomo, GAMS, solver workflows  
 **Data & Analytics:** feature engineering, EDA, model evaluation  
 **Tools:** Git, Linux, Jupyter, VS Code, Excel
