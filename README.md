@@ -5,8 +5,6 @@ Industrial Engineering student at SBUK, working at the intersection of
 I am broadly interested in turning real-world operational problems into  
 computational formulations and designing efficient solution procedures around them.
 
----
-
 #### Research Interests
 
 - Mathematical programming (LP, MILP); formulation design and model structuring  
@@ -15,16 +13,12 @@ computational formulations and designing efficient solution procedures around th
 - Algorithmic thinking; computational approaches for decision-making problems  
 - Systems modeling: scheduling, resource allocation, and analytical operations
 
----
-
 #### Technical Skills
 
 **Programming:** Python (Pyomo, scikit-learn, NumPy, Pandas), C++, SQL  
 **Optimization Tools:** Pyomo, GAMS, solver workflows  
 **Data & Analytics:** feature engineering, EDA, model evaluation  
 **Tools:** Git, Linux, Jupyter, VS Code, Excel
-
----
 
 #### Links
 
