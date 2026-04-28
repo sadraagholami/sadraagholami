@@ -9,4 +9,4 @@ computational formulations and designing efficient solution procedures around th
 
 **Technical Skills:** Python, C++, SQL, GAMS, MS Excel.
 
-[Email](https://www.google.com/sadra.gholami2003@gmail.com) - [LinkedIn](https://www.linkedin.com/in/sadragholami)
+[Email](sadra.gholami2003@gmail.com) - [LinkedIn](https://www.linkedin.com/in/sadragholami)
