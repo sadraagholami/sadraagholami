@@ -5,6 +5,6 @@ Industrial Engineering student at SBUK, working at the intersection of
 I am broadly interested in turning real-world operational problems into  
 computational formulations and designing efficient solution procedures around them.
 
-**Research Interests:** Data Science, Machine Learning, Operations Research, Robust Optimization, Data-Driven Decision Making. 
+**Research Interests:** Data Science, Machine Learning, Operations Research, AI Infrastructure & Cloud. 
 
-**Technical Skills:** Python, C++, SQL, GAMS, MS Excel.
+**Technical Skills:** Python, C++, SQL, MS Excel, Git.
